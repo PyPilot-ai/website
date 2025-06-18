@@ -1,226 +1,226 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     
   <url>
-    <loc>https://controlflow.ai/concepts/agents</loc>
+    <loc>https://pypilot.ai/concepts/agents</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/concepts/concepts</loc>
+    <loc>https://pypilot.ai/concepts/concepts</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/concepts/flows</loc>
+    <loc>https://pypilot.ai/concepts/flows</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/concepts/tasks</loc>
+    <loc>https://pypilot.ai/concepts/tasks</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/agent-engineer</loc>
+    <loc>https://pypilot.ai/examples/agent-engineer</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/anonymization</loc>
+    <loc>https://pypilot.ai/examples/anonymization</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/call-routing</loc>
+    <loc>https://pypilot.ai/examples/call-routing</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/code-explanation</loc>
+    <loc>https://pypilot.ai/examples/code-explanation</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/features/dependent-tasks</loc>
+    <loc>https://pypilot.ai/examples/features/dependent-tasks</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/features/early-termination</loc>
+    <loc>https://pypilot.ai/examples/features/early-termination</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/features/memory</loc>
+    <loc>https://pypilot.ai/examples/features/memory</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/features/multi-llm</loc>
+    <loc>https://pypilot.ai/examples/features/multi-llm</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/features/private-flows</loc>
+    <loc>https://pypilot.ai/examples/features/private-flows</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/features/tools</loc>
+    <loc>https://pypilot.ai/examples/features/tools</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/generate-people</loc>
+    <loc>https://pypilot.ai/examples/generate-people</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/headline-categorization</loc>
+    <loc>https://pypilot.ai/examples/headline-categorization</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/language-tutor</loc>
+    <loc>https://pypilot.ai/examples/language-tutor</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/named-entity-recognition</loc>
+    <loc>https://pypilot.ai/examples/named-entity-recognition</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/rock-paper-scissors</loc>
+    <loc>https://pypilot.ai/examples/rock-paper-scissors</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/seinfeld-conversation</loc>
+    <loc>https://pypilot.ai/examples/seinfeld-conversation</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/sentiment-classifier</loc>
+    <loc>https://pypilot.ai/examples/sentiment-classifier</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/standardize-addresses</loc>
+    <loc>https://pypilot.ai/examples/standardize-addresses</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/summarization</loc>
+    <loc>https://pypilot.ai/examples/summarization</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/examples/translation</loc>
+    <loc>https://pypilot.ai/examples/translation</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/agentic-workflows</loc>
+    <loc>https://pypilot.ai/glossary/agentic-workflows</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/agents</loc>
+    <loc>https://pypilot.ai/glossary/agents</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/cf-agent</loc>
+    <loc>https://pypilot.ai/glossary/cf-agent</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/cf-flow</loc>
+    <loc>https://pypilot.ai/glossary/cf-flow</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/cf-task</loc>
+    <loc>https://pypilot.ai/glossary/cf-task</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/dependencies</loc>
+    <loc>https://pypilot.ai/glossary/dependencies</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/fine-tuning</loc>
+    <loc>https://pypilot.ai/glossary/fine-tuning</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/flow-engineering</loc>
+    <loc>https://pypilot.ai/glossary/flow-engineering</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/flow-orchestration</loc>
+    <loc>https://pypilot.ai/glossary/flow-orchestration</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/glossary</loc>
+    <loc>https://pypilot.ai/glossary/glossary</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/llm</loc>
+    <loc>https://pypilot.ai/glossary/llm</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/prompt-engineering</loc>
+    <loc>https://pypilot.ai/glossary/prompt-engineering</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/task-orchestration</loc>
+    <loc>https://pypilot.ai/glossary/task-orchestration</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/tools</loc>
+    <loc>https://pypilot.ai/glossary/tools</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/glossary/workflow</loc>
+    <loc>https://pypilot.ai/glossary/workflow</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/guides/configure-llms</loc>
+    <loc>https://pypilot.ai/guides/configure-llms</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/guides/default-agent</loc>
+    <loc>https://pypilot.ai/guides/default-agent</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/guides/default-memory</loc>
+    <loc>https://pypilot.ai/guides/default-memory</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/guides/settings</loc>
+    <loc>https://pypilot.ai/guides/settings</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/installation</loc>
+    <loc>https://pypilot.ai/installation</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/dependencies</loc>
+    <loc>https://pypilot.ai/patterns/dependencies</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/history</loc>
+    <loc>https://pypilot.ai/patterns/history</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/instructions</loc>
+    <loc>https://pypilot.ai/patterns/instructions</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/interactivity</loc>
+    <loc>https://pypilot.ai/patterns/interactivity</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/memory</loc>
+    <loc>https://pypilot.ai/patterns/memory</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/planning</loc>
+    <loc>https://pypilot.ai/patterns/planning</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/running-tasks</loc>
+    <loc>https://pypilot.ai/patterns/running-tasks</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/streaming</loc>
+    <loc>https://pypilot.ai/patterns/streaming</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/task-results</loc>
+    <loc>https://pypilot.ai/patterns/task-results</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/patterns/tools</loc>
+    <loc>https://pypilot.ai/patterns/tools</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/quickstart</loc>
+    <loc>https://pypilot.ai/quickstart</loc>
   </url>
 
   <url>
-    <loc>https://controlflow.ai/welcome</loc>
+    <loc>https://pypilot.ai/welcome</loc>
   </url>
 </urlset>
